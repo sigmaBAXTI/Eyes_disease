@@ -10,8 +10,10 @@ davosi va oldini olish masalalarini oftalmologiya oʻrganadi.
 
 
 Retinopatiya - har qanday kelib chiqishi koʻz olmasining toʻr pardasining shikastlanishi
+
 ![image](https://github.com/sigmaBAXTI/Eyes_disease/assets/140996479/9b549eef-cd9b-4ba5-b5aa-fa77aef2fbfc)
 
 
 Kon'yunktivit - konʼyunktivaning yalligʻlanishi
+
 ![image](https://github.com/sigmaBAXTI/Eyes_disease/assets/140996479/b9bbfe4d-fa38-43e7-ba4a-2582b7aafcf9)
