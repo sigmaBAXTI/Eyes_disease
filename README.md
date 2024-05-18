@@ -1,4 +1,4 @@
-                ```Koʻz kasalliklari```
+                Koʻz kasalliklari
 
 Koʻz kasalliklari — ko'z soqqasi, qovoq, konyuktiv, koʻz yoshi aʼzolari va koʻz kosasi kasalliklari. Yaqindan va uzoqdan koʻrolmaslik, koʻz astigmatizm ham koʻz kasalliklariga kiradi. 
 Koʻz kasalliklari tugʻma va hayotda orttirilgan, yuqumli va yuqumsiz, oʻtkir va surunkali, bitta yoki ikkala koʻzda boʻladi. Organizmning umumiy kasalliklari: infeksion (sil, zaxm, revmatizm, gripp, 
